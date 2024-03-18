@@ -4,6 +4,13 @@ redash-toolbelt - The official API client and utilities to manage a Redash insta
 - [INSTALLATION](#installation)
 - [EXAMPLE SCRIPTS](#example-scripts)
 
+## Prerequisites
+
+- If you pyenv
+- pyvenv install 3.12
+- pyenv local 3.12
+- poetry install
+- poetry shell
 
 ## INSTALLATION
 
